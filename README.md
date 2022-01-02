@@ -6,6 +6,6 @@ Statistical Computing/ Analysis
 
 -EDA (Data visulaization)
 
--ANALYSIS (Stat + ML analysis) 
+-Analysis (Stat + ML analysis) 
 
 -Model Evaluation/ Validation 
