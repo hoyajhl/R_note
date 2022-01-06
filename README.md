@@ -1,7 +1,12 @@
 # R_stat
-Statistical Computing/ Analysis
+##### Statistical method 
 
-## Overall framework 
+##### Statistical tool
+
+##### Computing/ Analysis
+
+## Overall framework
+```
 -Preprocessing (Data Handling)
 
 -EDA (Data visulaization)
@@ -9,3 +14,5 @@ Statistical Computing/ Analysis
 -Analysis (Stat + ML analysis) 
 
 -Model Evaluation/ Validation 
+
+```
