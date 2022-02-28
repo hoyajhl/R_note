@@ -1,7 +1,7 @@
 # R_stat
-##### Statistical method 
+##### Statistical method/ Statistical tool
 
-##### Statistical tool
+##### Data handling (manipulation)/ programming
 
 ##### Computing/ Analysis
 
